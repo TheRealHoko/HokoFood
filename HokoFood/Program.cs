@@ -1,7 +1,16 @@
+using HokoFood.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContextPool<HokoFoodDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("HokoFoodDb"));
+});
+builder.Services.AddScoped<IRestaurantData, SqlRestaurantData>();
 
 var app = builder.Build();
 

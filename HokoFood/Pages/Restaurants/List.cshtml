@@ -1,0 +1,30 @@
+﻿@page
+@model HokoFood.Pages.Restaurants.ListModel
+@{
+}
+<script src="https://kit.fontawesome.com/f83776f60f.js" crossorigin="anonymous"></script>
+
+<h1>Restaurants</h1>
+
+<form method="get">
+	<div class="form-group">
+		<div class="input-group">
+			<input type="search" class="form-control" asp-for="SearchTerm"/>
+			<span class="input-group-btn">
+				<button class="btn btn-dark">
+					<i class="fa-brands fa-searchengin"></i>
+				</button>
+			</span>
+		</div>
+	</div>
+</form>
+<br />
+
+@foreach(var restaurant in Model.Restaurants)
+{
+	<partial name="_Summary" model="restaurant" />
+}
+
+<a asp-page="./Edit" class="btn btn-primary btn-dark">Add New</a>
+
+<div>@Model.Message</div>
