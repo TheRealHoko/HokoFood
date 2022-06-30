@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cp4fD0JJiCYr+7DGk2atlCqMjK75r4RvXYiaIVyvtEM=",
+  "Hash": "wHc7VeKXmEXQFmNwVPkdl+mWv75AyTpEKdWxXuaqLF8=",
   "Source": "HokoFood",
   "BasePath": "_content/HokoFood",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\julie\\source\\repos\\HokoFood\\HokoFood\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HokoFood.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\julie\\source\\repos\\HokoFood\\HokoFood\\wwwroot\\C#.png",
+      "SourceId": "HokoFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\julie\\source\\repos\\HokoFood\\HokoFood\\wwwroot\\",
+      "BasePath": "_content/HokoFood",
+      "RelativePath": "C#.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\C#.png"
     },
     {
       "Identity": "C:\\Users\\julie\\source\\repos\\HokoFood\\HokoFood\\wwwroot\\css\\site.css",
