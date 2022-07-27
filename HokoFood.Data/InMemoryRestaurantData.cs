@@ -23,7 +23,7 @@ namespace HokoFood.Data
 		}
         public Restaurant GetById(int id)
 		{
-            return restaurants.SingleOrDefault(r => r.Id == id);
+            return restaurants.SingleOrDefault(r => r.Id == id)!;
 		}
         public Restaurant Update(Restaurant updatedRestaurant)
 		{
@@ -34,7 +34,7 @@ namespace HokoFood.Data
                 restaurant.Location = updatedRestaurant.Location;
                 restaurant.Cuisine = updatedRestaurant.Cuisine;
 			}
-            return restaurant;
+            return restaurant!;
 		}
         public int Commit()
 		{
@@ -43,7 +43,7 @@ namespace HokoFood.Data
         public IEnumerable<Restaurant> GetRestaurantsByName(string name = null!)
         {
             return from r in restaurants
-                   where string.IsNullOrEmpty(name) || r.Name.StartsWith(name)
+                   where string.IsNullOrEmpty(name) || r.Name!.StartsWith(name)
                    orderby r.Name
                    select r;
         }
@@ -55,7 +55,7 @@ namespace HokoFood.Data
 			{
                 restaurants.Remove(restaurant);
 			}
-            return restaurant;
+            return restaurant!;
 		}
 
 		public int GetCountOfRestaurants()

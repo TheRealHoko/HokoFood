@@ -1,0 +1,17 @@
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\bin\Debug\net6.0\win-x64\HokoFood.Data.deps.json
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\bin\Debug\net6.0\win-x64\HokoFood.Data.runtimeconfig.json
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\bin\Debug\net6.0\win-x64\HokoFood.Data.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\bin\Debug\net6.0\win-x64\HokoFood.Data.pdb
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\bin\Debug\net6.0\win-x64\HokoFood.Core.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\bin\Debug\net6.0\win-x64\HokoFood.Core.pdb
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.csproj.AssemblyReference.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.AssemblyInfo.cs
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.csproj.CopyComplete
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\refint\HokoFood.Data.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.pdb
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\HokoFood.Data.genruntimeconfig.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Data\obj\Debug\net6.0\win-x64\ref\HokoFood.Data.dll

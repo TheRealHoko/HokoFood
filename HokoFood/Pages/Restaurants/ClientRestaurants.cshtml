@@ -1,0 +1,44 @@
+﻿@page
+@model HokoFood.Pages.Restaurants.ClientRestaurantsModel
+@{
+	ViewData["Title"] = "ClientRestaurants";
+}
+
+<h2>Client Restaurants</h2>
+
+<table class="table" id="restaurants" >
+	
+</table>
+
+@section Scripts {
+	<environment include="Development">
+		<script src="~/datatables.net/jquery.dataTables.js"></script>
+		<script src="~/datatables.net-bs5/dataTables.bootstrap5.js"></script>
+		<link href="~/datatables.net-bs5/dataTables.bootstrap5.css" />
+	</environment>
+	<environment exclude="Development">
+		<script type="text/javascript" src="https://cdn.datatables.net/v/bs5/dt-1.12.1/datatables.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/dt-1.12.1/datatables.min.css"/> 
+	</environment>
+
+
+	<script>
+
+		$(function() {
+            $.ajax("/api/restaurants/",
+                { method: "get" })
+				.then(function (response) {
+					$("#restaurants").dataTable({
+						data: response,
+						columns: [
+							{ "data": "name" },
+							{ "data": "location" },
+							{ "data": "cuisine" }
+						]
+                    })
+                });
+		});
+
+
+	</script>
+}

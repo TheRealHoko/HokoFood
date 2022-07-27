@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "00unisngO8E8umdqShu7h0LnyC2wXqkBQ9TAI8Gf1Sgw6A7ZDzN6wFUC5VsA19VFgVV7WkPqVBNPj91yhdwfNg==",
+  "dgSpecHash": "Zgt2CQiUOZvDFW5hnECCbcO87zZtMftPUvA8DLqy4rDYuYk7fdkFQ/bXxnTTl2c+GqULXuY0xLdRLRSQYTdN0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\julie\\source\\repos\\HokoFood\\HokoFood.Data\\HokoFood.Data.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,10 @@
     "C:\\Users\\julie\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\julie\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\julie\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\julie\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\julie\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.7\\microsoft.netcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x64.6.0.7.nupkg.sha512"
   ],
   "logs": []
 }

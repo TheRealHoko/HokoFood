@@ -1,0 +1,12 @@
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\bin\Debug\net6.0\win-x64\HokoFood.Core.deps.json
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\bin\Debug\net6.0\win-x64\HokoFood.Core.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\bin\Debug\net6.0\win-x64\HokoFood.Core.pdb
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.csproj.AssemblyReference.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.AssemblyInfo.cs
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\refint\HokoFood.Core.dll
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\HokoFood.Core.pdb
+C:\Users\julie\source\repos\HokoFood\HokoFood.Core\obj\Debug\net6.0\win-x64\ref\HokoFood.Core.dll

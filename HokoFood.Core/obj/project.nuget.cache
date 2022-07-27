@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JXLMsLSDijTl+4Dw3oWHtAUDDu+7rQ2dnnC6pnKaJkLCaNaery66YcMOHhg/yCHhpgBCsT4RGVcxjw+2scRULQ==",
+  "dgSpecHash": "LKa4GXVRacpswIy+MoFE76SYsr03+SPBVOp5lr7cNtavJ+RJJ7jjeFpiL3sBiKTd5bNNYyaNq8VOth+YnMGDbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\julie\\source\\repos\\HokoFood\\HokoFood.Core\\HokoFood.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.7\\microsoft.netcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x64.6.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
